@@ -1,0 +1,1 @@
+This project is a simple website displaying the different types of medals this company offers.
